@@ -10,7 +10,8 @@
 
 My projects:
 
-•	Full stack MERN stack Project: https://interviewertrack.herokuapp.com/
-•	My second project at IronHack bootcamp: https://forecast-blog.herokuapp.com/
-•	A web-based game project: https://vinayakdandin1.github.io/RuthlessGame/
+
+- Full stack MERN stack Project: https://interviewertrack.herokuapp.com/
+- My second project at IronHack bootcamp: https://forecast-blog.herokuapp.com/
+- A web-based game project: https://vinayakdandin1.github.io/RuthlessGame/
 

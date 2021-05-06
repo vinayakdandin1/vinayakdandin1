@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Cool React Projects
+- 🔭 I’m currently working on ... Freelance React Projects
 - 🌱 I’m currently learning ... Redux, SCSS, Algorithms and Data Structures
 - 👯 I’m looking to collaborate on ... React.js, MERN stack
 - 🤔 I’m looking for help with ... Redux
